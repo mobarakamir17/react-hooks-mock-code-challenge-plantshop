@@ -41,6 +41,13 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Faux Olive Tree",
+      "image": "https://cb.scene7.com/is/image/Crate/OliveTree7ftSSS21/$web_pdp_main_carousel_zoom_med$/210415090243/artificial-olive-tree.jpg",
+      "price": 399.99,
+      "soldOut": true,
+      "id": 8
     }
   ]
 }
